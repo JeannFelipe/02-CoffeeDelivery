@@ -1,7 +1,7 @@
 # Projeto de delivery de café
 Na página principal você adiciona os cafés e eles vão direto para o carrinho.
 
-![image](https://github.com/user-attachments/assets/f83ebdd3-579c-4f75-9eba-232fc8575d4a)
+![image](https://github.com/user-attachments/assets/6b70743c-6c05-4b88-aae7-2cac65f999fa)
 
 ## Carrinho
 
